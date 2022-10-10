@@ -1,5 +1,6 @@
 {
   "name": "runaway-login-button",
+  "description": "A simple joke website where the login button run away when form is invalid.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
